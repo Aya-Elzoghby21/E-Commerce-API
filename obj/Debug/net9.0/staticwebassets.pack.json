@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\ITI\\E-commerce\\E-commerce\\wwwroot\\images\\p1.jpeg",
+      "PackagePath": "staticwebassets\\images\\p1.jpeg"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.E-commerce.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.E-commerce.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.E-commerce.props",
+      "PackagePath": "build\\E-commerce.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.E-commerce.props",
+      "PackagePath": "buildMultiTargeting\\E-commerce.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.E-commerce.props",
+      "PackagePath": "buildTransitive\\E-commerce.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
