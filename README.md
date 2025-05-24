@@ -97,7 +97,7 @@ Make sure to include the **JWT token** in the `Authorization` header using the *
 ## 🔧 How to Run the Project
 
 1. Clone the repository:
-git clone https://github.com/your-username/ecommerce-api.git
+git clone https://github.com/Aya-Elzoghby21/ecommerce-api.git
 
 2. Set up SQL Server and update your `appsettings.json` connection string.
 
@@ -112,12 +112,22 @@ dotnet ef database update
 
 You can manually create an Admin or seed one:
 
-```json
 {
 "UserName": "admin",
 "Password": "Admin@123",
 "Roles": ["Admin"]
 }
 
-##⭐️ Star this repository if you find it helpful!
+---
+## 📌 Future Enhancements
+
+⬜ Cart & Wishlist APIs
+
+⬜ Payment gateway integration (e.g., Stripe)
+
+⬜ Unit & Integration Testing
+
+⬜ Deployment (e.g., Azure, Render)
+
+⭐️ Star this repository if you find it helpful!
 
